@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+}
+div.gallery {
+    cursor: pointer;
+    transition: all 0.6s;
+}
+div.gallery:hover {
+    transform: scale(1.4);
+}
+div.dota2 {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+div.dota2:hover {transform: scale(1.4);
+}
+div.finder {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+div.finder:hover {transform: scale(1.4);
+}
+div.finder {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+div.finder:hover {transform: scale(1.4);
+}
+
+   
+
+
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+   
+

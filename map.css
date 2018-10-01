@@ -1,0 +1,135 @@
+
+* {
+    box-sizing: border-box;
+}
+
+}
+.gallery {
+    cursor: pointer;
+    transition: all 0.6s;
+}
+.gallery:hover {
+    transform: scale(1.4);
+}
+.dota2 {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.dota2:hover {transform: scale(1.4);
+}
+.finder {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.finder:hover {transform: scale(1.4);
+}
+.finder {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.finder:hover {transform: scale(1.4);
+}
+.google{
+    cursor: pointer;
+    transition: all 0.6s;
+}
+.google:hover {
+    transform: scale(1.4);
+}
+.googlemail{
+    cursor: pointer;
+    transition: all 0.6s;
+}
+.googlemail:hover {
+    transform: scale(1.4);
+}
+.googledrive {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.googledrive:hover {transform: scale(1.4);
+}
+.indesign {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.indesign:hover {transform: scale(1.4);
+}
+.logicpro {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.logicpro:hover {transform: scale(1.4);
+}
+.photoshop {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.photoshop:hover {transform: scale(1.4);
+}
+.sublimetext {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.sublimetext:hover {transform: scale(1.4);
+}
+.steam {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.steam:hover {transform: scale(1.4);
+}
+.wechat {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.wechat:hover {transform: scale(1.4);
+}
+.zazzle {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.zazzle:hover {transform: scale(1.4);
+}
+.unnamed {
+  height: 400px;
+  width: 600px;
+  cursor: pointer;
+    transition: all 0.6s;
+  }
+.unnamed:hover {transform: scale(1.4);
+}
+
+   
+
+
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+
